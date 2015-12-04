@@ -1,0 +1,2 @@
+# stockDog
+angular stockDog
